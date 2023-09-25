@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diyor Xalloqov</h1>
 <h3 align="center">I'm Flutter Developer</h3>
+<img align = "right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*ADxa8DAu2pT66Nv3roRsvA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyorxalloqov&label=Profile%20views&color=0e75b6&style=flat" alt="diyorxalloqov" /> </p>
 
@@ -25,22 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diyorxalloqov&show_icons=true&locale=en" alt="diyorxalloqov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diyorxalloqov&" alt="diyorxalloqov" /></p>
-
-<div>
-  <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
-
-<!--
-asrayev/asrayev is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡️ Fun fact: ...
--->
