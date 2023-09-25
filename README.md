@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diyor Xalloqov</h1>
 <h3 align="center">I'm Flutter Developer</h3>
-<img align = "right" alt="Coding" width="800" src="https://miro.medium.com/v2/resize:fit:640/1*ADxa8DAu2pT66Nv3roRsvA.gif">
+<img align = "right" alt="Coding" width="1000" height="200" src="https://miro.medium.com/v2/resize:fit:640/1*ADxa8DAu2pT66Nv3roRsvA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyorxalloqov&label=Profile%20views&color=0e75b6&style=flat" alt="diyorxalloqov" /> </p>
 
