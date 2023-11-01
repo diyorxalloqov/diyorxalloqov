@@ -15,6 +15,12 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20641999/diyor-xalloqov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20641999/diyor-xalloqov" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/diyorxalloqov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/diyorxalloqov/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucdyd0bibjnvhpejkagqpz3a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucdyd0bibjnvhpejkagqpz3a" height="30" width="40" /></a>
+  <p align="left">
+  <a href="https://t.me/Flutter_dart_developer" target="_blank">
+    <img align="center" src="https://your-repo-url.com/your-icon.svg" alt="Telegram" height="30" width="40" />
+  </a>
+</p>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
