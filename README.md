@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Kanban Task Managemant](https://github.com/diyorxalloqov/kanban_task_managemant) and [Milli](https://github.com/diyorxalloqov/milli)
 
-- 📫 How to reach me **diyorxalloqov@gmail.com**
+- 📫 How to reach me **diyorxalloqov@gmail.com https://t.me/Flutter_dart_developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
