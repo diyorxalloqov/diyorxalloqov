@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyorxalloqov&label=Profile%20views&color=0e75b6&style=flat" alt="diyorxalloqov" /> </p>
 
 
-- 🔭 I’m currently working on [Kanban Task Managemant](https://github.com/diyorxalloqov/kanban_task_managemant) and [Milli](https://github.com/diyorxalloqov/milli)
-
 - 📫 How to reach me **diyorxalloqov@gmail.com https://t.me/Flutter_dart_developer**
 
 <h3 align="left">Connect with me:</h3>
